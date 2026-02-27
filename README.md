@@ -41,5 +41,8 @@ I am a passionate IT student at Xavier University College, driven by a curiosity
 - I love watching Markiplier!
 - Tried working on a horror game..
 <img width="250" height="50" alt="Screenshot 2026-02-27 230329" src="https://github.com/user-attachments/assets/dee585bf-cd88-4a78-821f-99e4ce160776" />
-
+## 🤡 More Fun Facts [GITBASH]
+- I play Magic The Gathering
+- I *somewhat* play the Piano
+- I helped create various announcements back in Senior High
 **Thanks for stopping by!**
