@@ -5,7 +5,7 @@ I am a passionate IT student at Xavier University College, driven by a curiosity
 > In life, we always find a way to succeed at life. When we met in the final destination, we rather reflect not because we made it but how we are able to take upon the journey with others.
 
 # 📊 My Stats 📊
-![Johannes Paulo Aguila Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JohannesPauloAguila)
+![Johannes Paulo Aguila's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JohannesPauloAguila&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me 🚀
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University College.
