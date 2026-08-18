@@ -1,14 +1,11 @@
 <table width="100%">
-  <tr background-color="#1e1e1e">
+  <tr background-color="#1e1e1e" font-color="#2E6F40">
   <td>
-# Welcome, My name is <img src="https://herokuapp.com!" Johannes Paulo G. Aguila! alt="Typing SVG" />
+# Welcome, My name is Johannes Paulo!
 
 - I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University College.
 
-You're the ![Visitors](https://komarev.com) person that has checked onto my REPO page about me!
-
-## My Github Streaks
-![GitHub Streak](https://herokuapp.com)
+You're the ![Visitor Count](https://komarev.com/ghpvc/?username=aguila-aguilajohannespaulo) person that has checked onto my REPO page about me!
 
 ## What Programming Languages or Applications I used?
 [![My Skills](https://skillicons.dev/icons?i=github,git,python,html,css,vscode,lua,java)](https://skillicons.dev)
@@ -58,12 +55,9 @@ You're the ![Visitors](https://komarev.com) person that has checked onto my REPO
 
 </details>
 
-## Today's Quote of the Day
-![Coding Quote](https://vercel.app)
-
 ### Contact Details:
-> School Email: 200930063@my.xu.edu.ph
-> Personal Email: jpaguila04@gmail.com
+- School Email: 200930063@my.xu.edu.ph
+- Personal Email: jpaguila04@gmail.com
 
   </td>
   </tr>
