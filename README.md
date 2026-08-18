@@ -1,6 +1,7 @@
 <table width="100%">
-  <tr background-color="#1e1e1e" font-color="#2E6F40">
+  <tr background-color="#1e1e1e">
   <td>
+<code style="color : greenyellow">
 # Welcome, My name is Johannes Paulo!
 
 - I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University College.
@@ -58,7 +59,7 @@ You're the ![Visitor Count](https://komarev.com/ghpvc/?username=aguila-aguilajoh
 ### Contact Details:
 - School Email: 200930063@my.xu.edu.ph
 - Personal Email: jpaguila04@gmail.com
-
+</code>
   </td>
   </tr>
 </table> 
